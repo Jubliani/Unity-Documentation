@@ -6,8 +6,8 @@ project = 'Unity Documentation'
 copyright = '2022, Jubliani'
 author = 'Jubliani'
 
-release = '0.1'
-version = '0.1.0'
+release = version
+version = '0.0.1'
 
 # -- General configuration
 
